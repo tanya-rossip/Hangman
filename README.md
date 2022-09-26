@@ -1,14 +1,22 @@
 <h1 align="center">Hangman</h1>
 
-<h3 align="center">Classic guessing game "Hangman" based on HTML5 and Javascript ES6.</h3>
+<h2>Classic guessing game "Hangman" based on HTML5 and Javascript ES6.</h2>
 
 **I implemented this project by using following elements, modules and methods:**
 - CSS Flexible Box Layout
 - CSS Flexible Box Layout
 - Canvas API
+- The Document Object Model (DOM)
+- EventTarget.addEventListener() Method
+- The Math.random() function
+- Custom arrow functions
+- Arrays
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/tanya-rossip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanya-rossip" height="30" width="40" /></a>
+<a href="https://fb.com/tanyarossip201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanyarossip201" height="30" width="40" /></a>
+  <a href="https://twitter.com/tetiana_rossip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tetiana_rossip" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
