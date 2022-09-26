@@ -4,7 +4,6 @@
 
 **I implemented this project by using following elements, modules and methods:**
 - CSS Flexible Box Layout
-- CSS Flexible Box Layout
 - Canvas API
 - The Document Object Model (DOM)
 - EventTarget.addEventListener() Method
